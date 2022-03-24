@@ -11,3 +11,8 @@ h1 {
   justify-content: center;
   font-size: 2rem;
 }
+.main h3{
+    color: goldenrod;
+    font-style: 3rem;
+    font-weight: normal;
+}
